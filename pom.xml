@@ -22,16 +22,7 @@
   </modules>
 
   <distributionManagement>
-    <snapshotRepository>
-		    <id>deploymentRepo</id>
-		    <url>http://192.168.43.99:8081/repository/msanjaykumarreddy/</url>
-		 </snapshotRepository>
-		
-		<repository>
-		    <id>deploymentRepo</id>
-		    <url>http://192.168.43.99:8081/repository/msanjaykumarreddy/</url>
-		</repository>
-           
+                        
   </distributionManagement>
 
   <build>
